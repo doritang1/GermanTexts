@@ -30,7 +30,7 @@
 </Paragraph>
 
 
-<Paragraph>        
+<Paragraph>
         <German>Ich kam nach Berlin, um Medizin zu studieren.</German>
         <Korean>나는 의학을 공부하기 위해 베를린에 왔다.</Korean>
         <Grammer>접속사 damit의 주어와 주문장의 주어가 일치할 때 um ... zu부정사로 바꿀 수 있다.
@@ -38,7 +38,7 @@
 </Paragraph>
 
 
-<Paragraph>        
+<Paragraph>
         <German>Er ging vorüber, ohne mich zu grüßen.</German>
         <Korean>그는 나에게 인사하지 않고 지나쳤다.</Korean>
         <Grammer>접속사 ohne daß의 주어와 주문장의 주어가 일치할 때 ohne ... zu부정사로 바꿀 수 있다.
@@ -46,7 +46,7 @@
 </Paragraph>
 
 
-<Paragraph>        
+<Paragraph>
         <German>Er verspottet sie, (an)statt ihr zu danken.</German>
         <Korean>그는 그녀에게 감사하지 않고 조롱한다.</Korean>
         <Grammer>접속사 (an)statt의 주어와 주문장의 주어가 일치할 때 (an)statt ... zu부정사로 바꿀 수 있다.
@@ -160,8 +160,8 @@
 <Paragraph>
         <German>Der Expressionismus war der letzte Versuch, den Menschen mit Mitteln der Kunst zu beeinflussen un zu verändern. In dieser Hinsicht folgte er der großen Idee der Klassik. Um so tiefer war die Enttäuschung, daß dies nicht möglich war. Der Expressionismus hat das geistige Leben in Deutschland zwischen 1920 und 1930 sehr beeinflußt.</German>
         <Korean>표현주의는 예술을 수단으로 하여 인간에게 영향을 주고 인간을 변화시키고자 하는 마지막 시도였다. 이러한 점에서 표현주의는 고전주의의 위대한 이념을 계승하였다. (그래서) 이것(=고전주의의 이념)이 가능하지 않다는 환멸감은 그만큼 더 깊었다. 표현주의는 1920년과 1930년 사이의 독일의 정신 생활에 거대한 영향을 미쳤다.</Korean>
-        <Grammer></Grammer>
-        <Grammer></Grammer>
+        <Grammer>fgfdgdfg</Grammer>
+        <Grammer>ddd</Grammer>
 </Paragraph>
 
 
