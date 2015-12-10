@@ -1,0 +1,491 @@
+﻿<BOOK = 초급독문해석>
+<Category = 부정법>
+
+
+<Paragraph>
+        <German>Es gehört sich nicht, einen alten Mann zu ärgern.        </German>
+        <Korean>노인을 화나게 하는 것은 옳지 않다.</Korean>
+        <Grammer>zu부정사가 문장의 주어로 사용되고 있으며, es는 가주어</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Der Angeklagte leugnet, die Tat begangen zu haben.</German>
+<Korean>그 피고인은 그 범행을 저질렀음을 부인한다.</Korean>
+<Grammer>begangen zu haben은 완료부정법으로서, zu부정사의 시제가 앞섬을 나타냄</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Ich mache mich daran, den Garten in Ordnung zu bringen.</German>
+<Korean>나는 정원을 정리하는 일에 착수한다.</Korean>
+        <Grammer>zu부정사가 전치사의 목적어로 쓰일 때 da(r)+전치사형이 선행한다.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Ich habe die Absicht, dich morgen zu besuchen.</German>
+        <Korean>나는 너를 내일 방문할 생각이다.</Korean>
+        <Grammer>zu부정사의 형용사적 용법</Grammer>
+</Paragraph>
+
+
+<Paragraph>        
+        <German>Ich kam nach Berlin, um Medizin zu studieren.</German>
+        <Korean>나는 의학을 공부하기 위해 베를린에 왔다.</Korean>
+        <Grammer>접속사 damit의 주어와 주문장의 주어가 일치할 때 um ... zu부정사로 바꿀 수 있다.
+        = Ich kam nach Berlin, damit ich Medizin studierte.</Grammer>
+</Paragraph>
+
+
+<Paragraph>        
+        <German>Er ging vorüber, ohne mich zu grüßen.</German>
+        <Korean>그는 나에게 인사하지 않고 지나쳤다.</Korean>
+        <Grammer>접속사 ohne daß의 주어와 주문장의 주어가 일치할 때 ohne ... zu부정사로 바꿀 수 있다.
+        = Er ging vorüber, ohne daß er mich grüßte.</Grammer>
+</Paragraph>
+
+
+<Paragraph>        
+        <German>Er verspottet sie, (an)statt ihr zu danken.</German>
+        <Korean>그는 그녀에게 감사하지 않고 조롱한다.</Korean>
+        <Grammer>접속사 (an)statt의 주어와 주문장의 주어가 일치할 때 (an)statt ... zu부정사로 바꿀 수 있다.
+        = Er verspottet sie, (an)statt daß er ihr dankt.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Diese Frage ist leicht zu lösen.</German>
+        <Korean>이 문제는 쉽사리 해결될 수 있다.</Korean>
+        <Grammer>sein … zu부정사는 수동의 가능성, 당위성(될 수 있다, 되어야 한다)을 위미한다. 수동 당위냐 가능이냐 하는 것은 문맥을 보고 가름한다. Das Gesetz ist streng zu befolgen. / Ich habe alte Bücher zu verkaufen.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Er pflegt bein Unterricht zu rauchen.</German>
+        <Korean>그는 수업할 때 담배를 피우곤 한다.</Korean>
+        <Grammer>pflegen … zu부정사는 습관적인 행동(~하곤 하다)을 나타낸다.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Du brauchst mich nicht zu besuchen</German>
+        <Korean>너는 나를 찾아올 필요가 없다.</Korean>
+        <Grammer>brauchen .... zu부정사는 필요를 의미하며, 이구문에 nur가 첨가되면 ~하기만 하면 된다의 뜻으로 화법조동사 dürfen에 nur가 첨가된 것과 동일한 뜻이다. 또한 nicht가 첨가되면 müssen을 부정하는 구문으로서 ~할 필요가 없다의 뜻을 지니다.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Der Platz ist groß genug, um darauf Fußball zu spielen.</German>
+        <Korean>그 장소는 축구를 할 만큼 크다.</Korean>
+        <Grammer>um … zu부정사는 목적을 의미하기도 하지만, 주문장에 정도를 의미하는 형용사, 부사, 동사가 나타나면 정도의 의미를 지니게 된다. 이럴 경우에는 뒤에서부터 해석한다.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Er ist zu jung, um in die Schule gehen zu können.</German>
+        <Korean>그는 너무 어려서 학교에 갈 수 없다.</Korean>
+        <Grammer>zu 형용사/부사, um … zu부정사는 너무 ~해서 ~하지 못하다의 뜻을 지닌다. Er ist zu jung, um in die Schule gehen zu können = Er ist zu jung, als daß er in die Schule gehen könnte. = Er ist so jung, daß er nicht in die Schule gehen kann.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Um offen zu sagen, ich hasse dich mehr als alles in der Welt.</German>
+        <Korean>솔직히 말해서 나는 이 세상에서 너보다 더 증오하는 사람은 없어.</Korean>
+        <Grammer>부정법구문의 절대적 용법으로서 관용적으로 사용된다. 많이 사용되는 것으로는 um es kurz zu sagen (요컨대), um es frei zu zu sagen (기탄없이 말하면), so zu sagen (소위), (um) ein Beispiel anzuführen (일례를 들면), mit jm. zu sagen (~의 말을 빌면), davon ganz zu schweigen (~은 차치하고)</Grammer>
+</Paragraph>
+
+
+<Paragraph No = ‘1’>
+        <German>Es ist immer schwierig, den Beginn der Geschichte und Kultur eines Volkes festzulegen. Im Vergleich zu der chinesischen, ägyptischen oder griechischen Geschichte ist die deutsche Geschichte relativ jung; vergleicht man sie aber mit der Geschichte Nordamerikas, dann erscheint sie doch ziemlich alt.</German>
+        <Korean>어떤 민족의 역사와 문화의 기원을 규정짓는다는 것은 언제나 어려운 일이다. 중국, 이집트, 혹은 그리스의 역사와 비교해 볼 때 독일의 역사는 상대적으로 젊은 편이다. 하지만 그런 독일 역사를 북아메리카의 역사와 비교해 본다면, 그것은 상대해 오래되어 보인다.</Korean>
+        <Grammer>첫 문장의 Es는 가주어, 진주어는 festzulegen이다. wenn 조건문에서 wenn이 생략되면 후치되어 있던 술어가 그 자리를 메꾸어 주어 도치문장이 되며, 주문장에서는 부사 so나 dann이 나타나는 것이 일반적이다.</Grammer>
+</Paragraph>
+
+
+<Paragraph No = ‘2’>
+        <German>So ist die Reformation vielleicht das entscheidendste Ereignis in der deutschen Geschichte und Kultur gewesen. Ihre Wirkung und ihre historischen Folgen reichen bis in die Gegenwart. Es ist schwer, unter Berücksichtigung der großen religiösen, sozialen und politischen Problem dieser Zeit eine Antwort auf die Frage nach den Ursachen und Gründen der Reformation in Deutschland zu finden.</German>
+        <Korean>이와 같이 종교 개혁은 아마도 독일 역사와 문화에 있어서 가장 결정적인 사건이었을 것이다. 그 영향력과 그 역사적 결과는 오늘날에까지 미치고 있다. 그 당시의 커다란 종교적, 사회적 그리고 정치적 문제들을 고려할 때에 독일에 있어서 종교개혁의 원인과 동기가 무엇이었던가 하는 질문에 대한 답변을 찾는다는 것은 어려운 일이다.</Korean>
+        <Grammer>세 번째 문장의 es는 가주어, 진주어는 맨 마지막 zu finden이다.</Grammer>
+</Paragraph>
+
+
+<Paragraph No = ‘3’>
+        <German>Während also besonders England und Frankreich von zwei verschiedenen Seiten aus begannen, Europa und die damalige Welt neu zu bestimmen und zu ordnen, mußte man in Deutschland darangehen, ganz von vorne anzufangen und einen Weg in die Zukunft zu suchen.</German>
+        <Korean>특히 영국과 프랑스가 서로 다른 두 측면으로부터 유럽과 그 당시의 세계를 새롭게 규정짓고 질서를 부여하기 시작했던 반면에 독일의 경우엔 전적으로 다시 처음부터 시작하여 미래에로의 길을 모색하는 일에 착수하지 않으면 안되었다.</Korean>
+        <Grammer>aus는 전치사 von과 상관적으로 결합되어 있는 부사</Grammer>
+        <Grammer>zu bestimmen과 zu ordnen은 beginnen에 걸려있는 Inf.이다.</Grammer>
+        <Grammer>anzufangen과 zu suchen은 darangehen에 걸려있는 Inf.이다.</Grammer>
+</Paragraph>
+
+
+<Paragraph No = ‘4’>
+        <German>Im Oktober berief Fürst Metternich einen Kongreß aller europäischen Fürsten und Staatsmänner nach Wien. Wieder einmal ging es um eine Neuordnung Europas. Die Völker hatten die Freiheit ihren Fürsten und der Staaten von Napoleon erkämpft. Sie wartete jetzt auf Entscheidungen ihrer Fürsten und hofften, dabei nicht ganz vergessen zu werden. Sie hatten gegen einen großen Eroberer der Weltgeshcichte gekämpft und gesiegt.</German>
+        <Korean>10월에 메테르니히 영주는 유럽의 모든 제후들과 정치가들의 회의를 빈으로 소집하였다. 유럽의 새로운 질서가 또 다시 문제되고 있었던 것이다. 제 민족들은 나폴레옹으로부터 그들의 군주들과 국가의 자유를 쟁취하였다. 그래서 이제 그들은 자기 군주들의 결정(처분)을 기다리면서 (자신들의 존재가) 결코 잊혀지지 않기를 희망하고 있었다. 그들은 세계사의 위대한 정복자를 상대로 싸워 이겼던 것이다.</Korean>
+        <Grammer>es geht um et. ~이 문제가 되다. ~에 관한 문제다.</Grammer>
+</Paragraph>
+
+
+<Paragraph No = ‘5’>
+        <German>Ganz unabhängig können Zeitungen nicht sein. Sie sind darauf angewiesen, eine möglichst hohe Auflage zu haben und möglichst viele Anzeigen zu erhalten. Es gibt Zeitungen, die das schreiben, was den Leuten gefällt, um so eine hohe Auflage zu erreichen.</German>
+        <Korean>신문은 전적으로 독립해서 존재할 수는 없다. 신문은 가능한 한 높은 발행 부수를 올리고 가능한 한 많은 광고를 확보하는 일에 의존해 있다. (그래서) 그러한 높은 발행부수를 올리기 위해, 사람들 마음에 드는 내용의 것을 쓰는 신문들이 있다.</Korean>
+        <Grammer>zu haben, zu erhalten은 전치사 auf의 목적어임. 이렇게 전치사의 목적어가 구나 절일 때에는 전치사가 지시적 부사인 da(r)와 결합한다.</Grammer>
+        <Grammer>die는 복수 1격 관계대명사로, 선행사는 Zeitungen</Grammer>
+        <Grammer>was는 부정관계대명사이고, 선행사는 지시대명사 das이다.</Grammer>
+        <Grammer> um … zu부정사 목적구문. ~을 하기 위해서</Grammer>
+</Paragraph>
+
+
+<Paragraph No = ‘6’>
+        <German>Die Wahlen sind frei und geheim. Das heißt: Keiner darf gezwungen werden, bestimmte Personen oder eine bestimmte Partei zu wählen und zu sagen, wen er wählt oder gewählt hat. Die Wahlen finden in Abständen von einigen Jahren statt. Denn in einem demokratischen Land soll keine Partei für immer regieren.</German>
+        <Korean>선거는 자유롭고 비밀스러운 것이다. 즉 그것은 특정의 인물이다 특정의 정당을 선택하도록 강요받아서는 안되며, 또 자신이 누구를 선택하는지 혹은 선택했는지를 말하도록 강요받아서도 안된다는 것을 말하는 것이다. 선거는 몇 년 간격으로 치뤄진다. 왜냐하면 민주주의 국가에서는 어떠한 정당도 영구히 통치하도록 해서는 안되기 때문이다.</Korean>
+        <Grammer>gezuwungen werden darf는 수동구문으로서, 부정어가 첨가되어 강한 금지를 나타낸다.</Grammer>
+        <Grammer>zu wählen과 zu sagen은 동사 zwingen과 결합하여 강제로 ~하게 하다라는 의미를 지닌다.</Grammer>
+        <Grammer>wen은 의문대명사이며, 이 문장은 sagen 동사의 목적절로서 의문사가 있는 의문문의 간접의문문이 되고 있다. 이 때 동사는 후치된다.</Grammer>
+</Paragraph>
+
+
+<Paragraph No = ‘7’>
+        <German>Gesetze regeln das Zusammenleben der Menschen. Manche Gesetze bestimmen alles das, was verboten ist und welche Strafen erteilt werden können, wenn jemand gegen diese Gesetze verstoßen hat. Es gibt aber auch Gesetze, die aussagen, welche Rechte jeder im Staat hat. So hat bei uns jeder das Recht, dort Wohnung und Arbeit zu suchen, wo es ihm gefällt.</German>
+        <Korean>법률은 사람들의 공동생활을 규율한다. 몇몇 법률은 금지되어 있는 모든 사항과 만일 누군가가 이 법률을 위반했을 경우에 어떠한 형벌이 내려지게 되는가를 규정하고 있다. 그리고 또한 국가 내에 있는 사람이면 누구나가 어떠한 권리를 가지고 있는가를 말해주고 있는 법률들도 있다. 예컨대 우리한테는 누구나 자기 마음에 드는 곳에서 주거와 일자리를 구할 권리가 있다.</Korean>
+        <Grammer>was는 부정관계대명사이고, 선행사는 alles das이다.</Grammer>
+        <Grammer>welche는 의문형용사로, bestimmen 동사의 목적절이 되기 위하여 간접의문화 된 것임.</Grammer>
+        <Grammer>die는 복수 1격 관계대명사로, 선행사는 Gesetze이다.</Grammer>
+        <Grammer>welchen 의문형용사로, aussagen 동사의 목적절이 되기 위하여 간접의문화 된 것임.</Grammer>
+        <Grammer>zu suchen은 앞의 Recht를 수식하는 Inf.</Grammer>
+        <Grammer>wo는 관계부사로서, 앞문장 dort가 관계문자을 받고 있다.</Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German>Der Expressionismus war der letzte Versuch, den Menschen mit Mitteln der Kunst zu beeinflussen un zu verändern. In dieser Hinsicht folgte er der großen Idee der Klassik. Um so tiefer war die Enttäuschung, daß dies nicht möglich war. Der Expressionismus hat das geistige Leben in Deutschland zwischen 1920 und 1930 sehr beeinflußt.</German>
+        <Korean>표현주의는 예술을 수단으로 하여 인간에게 영향을 주고 인간을 변화시키고자 하는 마지막 시도였다. 이러한 점에서 표현주의는 고전주의의 위대한 이념을 계승하였다. (그래서) 이것(=고전주의의 이념)이 가능하지 않다는 환멸감은 그만큼 더 깊었다. 표현주의는 1920년과 1930년 사이의 독일의 정신 생활에 거대한 영향을 미쳤다.</Korean>
+        <Grammer></Grammer>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
+
+
+</Category>
+</Book>
