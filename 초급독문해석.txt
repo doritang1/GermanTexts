@@ -1,6 +1,5 @@
-﻿<BOOK = 초급독문해석>
-<Category = 부정법>
-
+﻿<BOOK Name = "초급독문해석">
+<Category Name = "zu부정사">
 
 <Paragraph>
         <German>Es gehört sich nicht, einen alten Mann zu ärgern.        </German>
@@ -96,21 +95,21 @@
 </Paragraph>
 
 
-<Paragraph No = ‘1’>
+<Paragraph No = '1'>
         <German>Es ist immer schwierig, den Beginn der Geschichte und Kultur eines Volkes festzulegen. Im Vergleich zu der chinesischen, ägyptischen oder griechischen Geschichte ist die deutsche Geschichte relativ jung; vergleicht man sie aber mit der Geschichte Nordamerikas, dann erscheint sie doch ziemlich alt.</German>
         <Korean>어떤 민족의 역사와 문화의 기원을 규정짓는다는 것은 언제나 어려운 일이다. 중국, 이집트, 혹은 그리스의 역사와 비교해 볼 때 독일의 역사는 상대적으로 젊은 편이다. 하지만 그런 독일 역사를 북아메리카의 역사와 비교해 본다면, 그것은 상대해 오래되어 보인다.</Korean>
         <Grammer>첫 문장의 Es는 가주어, 진주어는 festzulegen이다. wenn 조건문에서 wenn이 생략되면 후치되어 있던 술어가 그 자리를 메꾸어 주어 도치문장이 되며, 주문장에서는 부사 so나 dann이 나타나는 것이 일반적이다.</Grammer>
 </Paragraph>
 
 
-<Paragraph No = ‘2’>
+<Paragraph No = '2'>
         <German>So ist die Reformation vielleicht das entscheidendste Ereignis in der deutschen Geschichte und Kultur gewesen. Ihre Wirkung und ihre historischen Folgen reichen bis in die Gegenwart. Es ist schwer, unter Berücksichtigung der großen religiösen, sozialen und politischen Problem dieser Zeit eine Antwort auf die Frage nach den Ursachen und Gründen der Reformation in Deutschland zu finden.</German>
         <Korean>이와 같이 종교 개혁은 아마도 독일 역사와 문화에 있어서 가장 결정적인 사건이었을 것이다. 그 영향력과 그 역사적 결과는 오늘날에까지 미치고 있다. 그 당시의 커다란 종교적, 사회적 그리고 정치적 문제들을 고려할 때에 독일에 있어서 종교개혁의 원인과 동기가 무엇이었던가 하는 질문에 대한 답변을 찾는다는 것은 어려운 일이다.</Korean>
         <Grammer>세 번째 문장의 es는 가주어, 진주어는 맨 마지막 zu finden이다.</Grammer>
 </Paragraph>
 
 
-<Paragraph No = ‘3’>
+<Paragraph No = '3'>
         <German>Während also besonders England und Frankreich von zwei verschiedenen Seiten aus begannen, Europa und die damalige Welt neu zu bestimmen und zu ordnen, mußte man in Deutschland darangehen, ganz von vorne anzufangen und einen Weg in die Zukunft zu suchen.</German>
         <Korean>특히 영국과 프랑스가 서로 다른 두 측면으로부터 유럽과 그 당시의 세계를 새롭게 규정짓고 질서를 부여하기 시작했던 반면에 독일의 경우엔 전적으로 다시 처음부터 시작하여 미래에로의 길을 모색하는 일에 착수하지 않으면 안되었다.</Korean>
         <Grammer>aus는 전치사 von과 상관적으로 결합되어 있는 부사</Grammer>
@@ -119,14 +118,14 @@
 </Paragraph>
 
 
-<Paragraph No = ‘4’>
+<Paragraph No = '4'>
         <German>Im Oktober berief Fürst Metternich einen Kongreß aller europäischen Fürsten und Staatsmänner nach Wien. Wieder einmal ging es um eine Neuordnung Europas. Die Völker hatten die Freiheit ihren Fürsten und der Staaten von Napoleon erkämpft. Sie wartete jetzt auf Entscheidungen ihrer Fürsten und hofften, dabei nicht ganz vergessen zu werden. Sie hatten gegen einen großen Eroberer der Weltgeshcichte gekämpft und gesiegt.</German>
         <Korean>10월에 메테르니히 영주는 유럽의 모든 제후들과 정치가들의 회의를 빈으로 소집하였다. 유럽의 새로운 질서가 또 다시 문제되고 있었던 것이다. 제 민족들은 나폴레옹으로부터 그들의 군주들과 국가의 자유를 쟁취하였다. 그래서 이제 그들은 자기 군주들의 결정(처분)을 기다리면서 (자신들의 존재가) 결코 잊혀지지 않기를 희망하고 있었다. 그들은 세계사의 위대한 정복자를 상대로 싸워 이겼던 것이다.</Korean>
         <Grammer>es geht um et. ~이 문제가 되다. ~에 관한 문제다.</Grammer>
 </Paragraph>
 
 
-<Paragraph No = ‘5’>
+<Paragraph No = '5'>
         <German>Ganz unabhängig können Zeitungen nicht sein. Sie sind darauf angewiesen, eine möglichst hohe Auflage zu haben und möglichst viele Anzeigen zu erhalten. Es gibt Zeitungen, die das schreiben, was den Leuten gefällt, um so eine hohe Auflage zu erreichen.</German>
         <Korean>신문은 전적으로 독립해서 존재할 수는 없다. 신문은 가능한 한 높은 발행 부수를 올리고 가능한 한 많은 광고를 확보하는 일에 의존해 있다. (그래서) 그러한 높은 발행부수를 올리기 위해, 사람들 마음에 드는 내용의 것을 쓰는 신문들이 있다.</Korean>
         <Grammer>zu haben, zu erhalten은 전치사 auf의 목적어임. 이렇게 전치사의 목적어가 구나 절일 때에는 전치사가 지시적 부사인 da(r)와 결합한다.</Grammer>
@@ -136,7 +135,7 @@
 </Paragraph>
 
 
-<Paragraph No = ‘6’>
+<Paragraph No = '6'>
         <German>Die Wahlen sind frei und geheim. Das heißt: Keiner darf gezwungen werden, bestimmte Personen oder eine bestimmte Partei zu wählen und zu sagen, wen er wählt oder gewählt hat. Die Wahlen finden in Abständen von einigen Jahren statt. Denn in einem demokratischen Land soll keine Partei für immer regieren.</German>
         <Korean>선거는 자유롭고 비밀스러운 것이다. 즉 그것은 특정의 인물이다 특정의 정당을 선택하도록 강요받아서는 안되며, 또 자신이 누구를 선택하는지 혹은 선택했는지를 말하도록 강요받아서도 안된다는 것을 말하는 것이다. 선거는 몇 년 간격으로 치뤄진다. 왜냐하면 민주주의 국가에서는 어떠한 정당도 영구히 통치하도록 해서는 안되기 때문이다.</Korean>
         <Grammer>gezuwungen werden darf는 수동구문으로서, 부정어가 첨가되어 강한 금지를 나타낸다.</Grammer>
@@ -145,7 +144,7 @@
 </Paragraph>
 
 
-<Paragraph No = ‘7’>
+<Paragraph No = '7'>
         <German>Gesetze regeln das Zusammenleben der Menschen. Manche Gesetze bestimmen alles das, was verboten ist und welche Strafen erteilt werden können, wenn jemand gegen diese Gesetze verstoßen hat. Es gibt aber auch Gesetze, die aussagen, welche Rechte jeder im Staat hat. So hat bei uns jeder das Recht, dort Wohnung und Arbeit zu suchen, wo es ihm gefällt.</German>
         <Korean>법률은 사람들의 공동생활을 규율한다. 몇몇 법률은 금지되어 있는 모든 사항과 만일 누군가가 이 법률을 위반했을 경우에 어떠한 형벌이 내려지게 되는가를 규정하고 있다. 그리고 또한 국가 내에 있는 사람이면 누구나가 어떠한 권리를 가지고 있는가를 말해주고 있는 법률들도 있다. 예컨대 우리한테는 누구나 자기 마음에 드는 곳에서 주거와 일자리를 구할 권리가 있다.</Korean>
         <Grammer>was는 부정관계대명사이고, 선행사는 alles das이다.</Grammer>
@@ -157,17 +156,19 @@
 </Paragraph>
 
 
-<Paragraph>
+<Paragraph No = '8'>
         <German>Der Expressionismus war der letzte Versuch, den Menschen mit Mitteln der Kunst zu beeinflussen un zu verändern. In dieser Hinsicht folgte er der großen Idee der Klassik. Um so tiefer war die Enttäuschung, daß dies nicht möglich war. Der Expressionismus hat das geistige Leben in Deutschland zwischen 1920 und 1930 sehr beeinflußt.</German>
         <Korean>표현주의는 예술을 수단으로 하여 인간에게 영향을 주고 인간을 변화시키고자 하는 마지막 시도였다. 이러한 점에서 표현주의는 고전주의의 위대한 이념을 계승하였다. (그래서) 이것(=고전주의의 이념)이 가능하지 않다는 환멸감은 그만큼 더 깊었다. 표현주의는 1920년과 1930년 사이의 독일의 정신 생활에 거대한 영향을 미쳤다.</Korean>
-        <Grammer>fgfdgdfg</Grammer>
+        <Grammer>zu bedinflußen und zu verändern은 der letzte Versuch를 설명하는 Inf.</Grammer>
+        <Grammer>daß 문장은 die Enttäuschung을 설명하는 동격의 의미.</Grammer>
 </Paragraph>
 
 
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
+<Paragraph No = '9'>
+        <German>Früher kamen Deutsche und Ausländer nach Bonn, um an der bekannten Universität zu studieren, um das Beethovenhaus zu besuchen, um sich die mittelalterlichen Kirchen und Bauten anzusehen und um die Schönheit der Rheinlandschaft zu genießen. Stutenten und Rheinromantiker kommen immer noch, aber jetzt sind über hundert diplomatische Missionen in Bonn. Im Jahr 1949 begann eine neue Epoche, als man für Bonn, und nicht für Frankfurt, stimmte; Bonn wurde eine Stadt der hohen Politik.</German>
+        <Korean>예전에 독일인들과 외국인들이 Bonn에 온 목적은 유명한 대학교에서 공부하기 위해서였고, 베토벤 생가를 방문하기 위해서였고, 중시 시대의 교회와 건축물들을 구경하기 위해서였고, 그리고 라인강 풍경의 아름다움을 즐기기 위해서였다. 학생들과 Rhein찬미자들은 여전히 오고 있지만, 이제 Bonn에는 100개가 넘는 외교 사절단들이 있다. 1949년에 사람들이 프랑크푸르트가 아니라 Boo에 찬성투표를 하였을 때, 새로운 시대가 시작되었다. 즉, Bonn은 고도의 정치도시가 된 것이다.</Korean>
+        <Grammer>um ... zu부정사는 목적구문으로 4개가 접속사 und로 결합되어 있다.</Grammer>
+        <Grammer>als는 때를 표시하는 종속접속사로 과거의 일회적인 사건을 표현할 때 쓰인다. 그 밖의 경우에는 wenn을 사용한다.</Grammer>
 </Paragraph>
 
 
