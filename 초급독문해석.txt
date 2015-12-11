@@ -172,10 +172,12 @@
 </Paragraph>
 
 
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
+<Paragraph No = '10'>
+        <German>Die Franösische Revolution und mehr noch die industrielle Revolution des 19. Jahrhunderts hatten die Massen geweckt. Die konservativen Kräfte waren entweder zu schwach oder zu reaktionär, zu unbeweglich, um sich gegen den Strom stellen zu können.</German>
+        <Korean>19세기의 산업 혁명은 말할 것도 없고, 프랑스혁명은 대중들을 일깨웠다. 보수주의 세력은 (시대의) 흐름에 맞설 수 있기에는 너무 힘이 약했거나 아니면 너무 반동적, 혹은 너무 부동적이었다.</Korean>
+        <Grammer>entweder A oder B는 A이거나 B이거나의 선택적 의미를 지닌다.</Grammer>
+        <Grammer>zu 형용사, um ... zu부정사는 너무 ~해서 ~할 수 없다의 구문으로 이것은 zu 형용사/부사, als daß 구문의 단축형이다.</Grammer>
+        <Grammer>sich gegen den Strom stellen 흐름에 역행하다. sich gegen den Strom schwimmen 흐름에 거슬러 헤엄치다.</Grammer>
 </Paragraph>
 
 
