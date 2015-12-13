@@ -1,92 +1,80 @@
 ﻿<BOOK Name = "초급독문해석">
-<Category Name = "zu부정사">
+<Category Name = "zu + inf.">
 
 <Paragraph>
-        <German>Es gehört sich nicht, einen alten Mann zu ärgern.        </German>
+        <German>Es gehört sich nicht, einen alten Mann zu ärgern.</German>
         <Korean>노인을 화나게 하는 것은 옳지 않다.</Korean>
-        <Grammer>zu부정사가 문장의 주어로 사용되고 있으며, es는 가주어</Grammer>
+        <Grammer>zu + inf.가 문장의 주어로 사용되고 있으며, es는 가주어</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Der Angeklagte leugnet, die Tat begangen zu haben.</German>
-<Korean>그 피고인은 그 범행을 저질렀음을 부인한다.</Korean>
-<Grammer>begangen zu haben은 완료부정법으로서, zu부정사의 시제가 앞섬을 나타냄</Grammer>
+        <Korean>그 피고인은 그 범행을 저질렀음을 부인한다.</Korean>
+        <Grammer>begangen zu haben은 완료부정법으로서, zu + inf.의 시제가 앞섬을 나타냄</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Ich mache mich daran, den Garten in Ordnung zu bringen.</German>
-<Korean>나는 정원을 정리하는 일에 착수한다.</Korean>
-        <Grammer>zu부정사가 전치사의 목적어로 쓰일 때 da(r)+전치사형이 선행한다.</Grammer>
+        <Korean>나는 정원을 정리하는 일에 착수한다.</Korean>
+        <Grammer>zu + inf.가 전치사의 목적어로 쓰일 때 da(r)+전치사형이 선행한다.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Ich habe die Absicht, dich morgen zu besuchen.</German>
         <Korean>나는 너를 내일 방문할 생각이다.</Korean>
-        <Grammer>zu부정사의 형용사적 용법</Grammer>
+        <Grammer>zu + inf.의 형용사적 용법</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Ich kam nach Berlin, um Medizin zu studieren.</German>
         <Korean>나는 의학을 공부하기 위해 베를린에 왔다.</Korean>
-        <Grammer>접속사 damit의 주어와 주문장의 주어가 일치할 때 um ... zu부정사로 바꿀 수 있다.
+        <Grammer>접속사 damit의 주어와 주문장의 주어가 일치할 때 um ... zu + inf.로 바꿀 수 있다.
         = Ich kam nach Berlin, damit ich Medizin studierte.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Er ging vorüber, ohne mich zu grüßen.</German>
         <Korean>그는 나에게 인사하지 않고 지나쳤다.</Korean>
-        <Grammer>접속사 ohne daß의 주어와 주문장의 주어가 일치할 때 ohne ... zu부정사로 바꿀 수 있다.
-        = Er ging vorüber, ohne daß er mich grüßte.</Grammer>
+        <Grammer>접속사 ohne dass의 주어와 주문장의 주어가 일치할 때 ohne ... zu + inf.로 바꿀 수 있다.
+        = Er ging vorüber, ohne dass er mich grüßte.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Er verspottet sie, (an)statt ihr zu danken.</German>
         <Korean>그는 그녀에게 감사하지 않고 조롱한다.</Korean>
-        <Grammer>접속사 (an)statt의 주어와 주문장의 주어가 일치할 때 (an)statt ... zu부정사로 바꿀 수 있다.
-        = Er verspottet sie, (an)statt daß er ihr dankt.</Grammer>
+        <Grammer>접속사 (an)statt의 주어와 주문장의 주어가 일치할 때 (an)statt ... zu + inf.로 바꿀 수 있다.
+        = Er verspottet sie, (an)statt dass er ihr dankt.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Diese Frage ist leicht zu lösen.</German>
         <Korean>이 문제는 쉽사리 해결될 수 있다.</Korean>
-        <Grammer>sein … zu부정사는 수동의 가능성, 당위성(될 수 있다, 되어야 한다)을 위미한다. 수동 당위냐 가능이냐 하는 것은 문맥을 보고 가름한다. Das Gesetz ist streng zu befolgen. / Ich habe alte Bücher zu verkaufen.</Grammer>
+        <Grammer>sein ... zu + inf.는 수동의 가능성, 당위성(될 수 있다, 되어야 한다)을 위미한다. 수동 당위냐 가능이냐 하는 것은 문맥을 보고 가름한다. Das Gesetz ist streng zu befolgen. / Ich habe alte Bücher zu verkaufen.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Er pflegt bein Unterricht zu rauchen.</German>
         <Korean>그는 수업할 때 담배를 피우곤 한다.</Korean>
-        <Grammer>pflegen … zu부정사는 습관적인 행동(~하곤 하다)을 나타낸다.</Grammer>
+        <Grammer>pflegen ... zu + inf.는 습관적인 행동(~하곤 하다)을 나타낸다.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Du brauchst mich nicht zu besuchen</German>
         <Korean>너는 나를 찾아올 필요가 없다.</Korean>
-        <Grammer>brauchen .... zu부정사는 필요를 의미하며, 이구문에 nur가 첨가되면 ~하기만 하면 된다의 뜻으로 화법조동사 dürfen에 nur가 첨가된 것과 동일한 뜻이다. 또한 nicht가 첨가되면 müssen을 부정하는 구문으로서 ~할 필요가 없다의 뜻을 지니다.</Grammer>
+        <Grammer>brauchen ... zu + inf.는 필요를 의미하며, 이구문에 nur가 첨가되면 ~하기만 하면 된다의 뜻으로 화법조동사 dürfen에 nur가 첨가된 것과 동일한 뜻이다. 또한 nicht가 첨가되면 müssen을 부정하는 구문으로서 ~할 필요가 없다의 뜻을 지니다.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Der Platz ist groß genug, um darauf Fußball zu spielen.</German>
         <Korean>그 장소는 축구를 할 만큼 크다.</Korean>
-        <Grammer>um … zu부정사는 목적을 의미하기도 하지만, 주문장에 정도를 의미하는 형용사, 부사, 동사가 나타나면 정도의 의미를 지니게 된다. 이럴 경우에는 뒤에서부터 해석한다.</Grammer>
+        <Grammer>um ... zu + inf.는 목적을 의미하기도 하지만, 주문장에 정도를 의미하는 형용사, 부사, 동사가 나타나면 정도의 의미를 지니게 된다. 이럴 경우에는 뒤에서부터 해석한다.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Er ist zu jung, um in die Schule gehen zu können.</German>
         <Korean>그는 너무 어려서 학교에 갈 수 없다.</Korean>
-        <Grammer>zu 형용사/부사, um … zu부정사는 너무 ~해서 ~하지 못하다의 뜻을 지닌다. Er ist zu jung, um in die Schule gehen zu können = Er ist zu jung, als daß er in die Schule gehen könnte. = Er ist so jung, daß er nicht in die Schule gehen kann.</Grammer>
+        <Grammer>zu 형용사/부사, um ... zu + inf.는 너무 ~해서 ~하지 못하다의 뜻을 지닌다. Er ist zu jung, um in die Schule gehen zu können = Er ist zu jung, als dass er in die Schule gehen könnte. = Er ist so jung, dass er nicht in die Schule gehen kann.</Grammer>
 </Paragraph>
-
 
 <Paragraph>
         <German>Um offen zu sagen, ich hasse dich mehr als alles in der Welt.</German>
@@ -94,20 +82,17 @@
         <Grammer>부정법구문의 절대적 용법으로서 관용적으로 사용된다. 많이 사용되는 것으로는 um es kurz zu sagen (요컨대), um es frei zu zu sagen (기탄없이 말하면), so zu sagen (소위), (um) ein Beispiel anzuführen (일례를 들면), mit jm. zu sagen (~의 말을 빌면), davon ganz zu schweigen (~은 차치하고)</Grammer>
 </Paragraph>
 
-
 <Paragraph No = '1'>
         <German>Es ist immer schwierig, den Beginn der Geschichte und Kultur eines Volkes festzulegen. Im Vergleich zu der chinesischen, ägyptischen oder griechischen Geschichte ist die deutsche Geschichte relativ jung; vergleicht man sie aber mit der Geschichte Nordamerikas, dann erscheint sie doch ziemlich alt.</German>
         <Korean>어떤 민족의 역사와 문화의 기원을 규정짓는다는 것은 언제나 어려운 일이다. 중국, 이집트, 혹은 그리스의 역사와 비교해 볼 때 독일의 역사는 상대적으로 젊은 편이다. 하지만 그런 독일 역사를 북아메리카의 역사와 비교해 본다면, 그것은 상대해 오래되어 보인다.</Korean>
         <Grammer>첫 문장의 Es는 가주어, 진주어는 festzulegen이다. wenn 조건문에서 wenn이 생략되면 후치되어 있던 술어가 그 자리를 메꾸어 주어 도치문장이 되며, 주문장에서는 부사 so나 dann이 나타나는 것이 일반적이다.</Grammer>
 </Paragraph>
 
-
 <Paragraph No = '2'>
         <German>So ist die Reformation vielleicht das entscheidendste Ereignis in der deutschen Geschichte und Kultur gewesen. Ihre Wirkung und ihre historischen Folgen reichen bis in die Gegenwart. Es ist schwer, unter Berücksichtigung der großen religiösen, sozialen und politischen Problem dieser Zeit eine Antwort auf die Frage nach den Ursachen und Gründen der Reformation in Deutschland zu finden.</German>
         <Korean>이와 같이 종교 개혁은 아마도 독일 역사와 문화에 있어서 가장 결정적인 사건이었을 것이다. 그 영향력과 그 역사적 결과는 오늘날에까지 미치고 있다. 그 당시의 커다란 종교적, 사회적 그리고 정치적 문제들을 고려할 때에 독일에 있어서 종교개혁의 원인과 동기가 무엇이었던가 하는 질문에 대한 답변을 찾는다는 것은 어려운 일이다.</Korean>
         <Grammer>세 번째 문장의 es는 가주어, 진주어는 맨 마지막 zu finden이다.</Grammer>
 </Paragraph>
-
 
 <Paragraph No = '3'>
         <German>Während also besonders England und Frankreich von zwei verschiedenen Seiten aus begannen, Europa und die damalige Welt neu zu bestimmen und zu ordnen, mußte man in Deutschland darangehen, ganz von vorne anzufangen und einen Weg in die Zukunft zu suchen.</German>
@@ -117,13 +102,11 @@
         <Grammer>anzufangen과 zu suchen은 darangehen에 걸려있는 Inf.이다.</Grammer>
 </Paragraph>
 
-
 <Paragraph No = '4'>
         <German>Im Oktober berief Fürst Metternich einen Kongreß aller europäischen Fürsten und Staatsmänner nach Wien. Wieder einmal ging es um eine Neuordnung Europas. Die Völker hatten die Freiheit ihren Fürsten und der Staaten von Napoleon erkämpft. Sie wartete jetzt auf Entscheidungen ihrer Fürsten und hofften, dabei nicht ganz vergessen zu werden. Sie hatten gegen einen großen Eroberer der Weltgeshcichte gekämpft und gesiegt.</German>
         <Korean>10월에 메테르니히 영주는 유럽의 모든 제후들과 정치가들의 회의를 빈으로 소집하였다. 유럽의 새로운 질서가 또 다시 문제되고 있었던 것이다. 제 민족들은 나폴레옹으로부터 그들의 군주들과 국가의 자유를 쟁취하였다. 그래서 이제 그들은 자기 군주들의 결정(처분)을 기다리면서 (자신들의 존재가) 결코 잊혀지지 않기를 희망하고 있었다. 그들은 세계사의 위대한 정복자를 상대로 싸워 이겼던 것이다.</Korean>
         <Grammer>es geht um et. ~이 문제가 되다. ~에 관한 문제다.</Grammer>
 </Paragraph>
-
 
 <Paragraph No = '5'>
         <German>Ganz unabhängig können Zeitungen nicht sein. Sie sind darauf angewiesen, eine möglichst hohe Auflage zu haben und möglichst viele Anzeigen zu erhalten. Es gibt Zeitungen, die das schreiben, was den Leuten gefällt, um so eine hohe Auflage zu erreichen.</German>
@@ -131,9 +114,8 @@
         <Grammer>zu haben, zu erhalten은 전치사 auf의 목적어임. 이렇게 전치사의 목적어가 구나 절일 때에는 전치사가 지시적 부사인 da(r)와 결합한다.</Grammer>
         <Grammer>die는 복수 1격 관계대명사로, 선행사는 Zeitungen</Grammer>
         <Grammer>was는 부정관계대명사이고, 선행사는 지시대명사 das이다.</Grammer>
-        <Grammer> um … zu부정사 목적구문. ~을 하기 위해서</Grammer>
+        <Grammer> um ... zu + inf. 목적구문. ~을 하기 위해서</Grammer>
 </Paragraph>
-
 
 <Paragraph No = '6'>
         <German>Die Wahlen sind frei und geheim. Das heißt: Keiner darf gezwungen werden, bestimmte Personen oder eine bestimmte Partei zu wählen und zu sagen, wen er wählt oder gewählt hat. Die Wahlen finden in Abständen von einigen Jahren statt. Denn in einem demokratischen Land soll keine Partei für immer regieren.</German>
@@ -142,7 +124,6 @@
         <Grammer>zu wählen과 zu sagen은 동사 zwingen과 결합하여 강제로 ~하게 하다라는 의미를 지닌다.</Grammer>
         <Grammer>wen은 의문대명사이며, 이 문장은 sagen 동사의 목적절로서 의문사가 있는 의문문의 간접의문문이 되고 있다. 이 때 동사는 후치된다.</Grammer>
 </Paragraph>
-
 
 <Paragraph No = '7'>
         <German>Gesetze regeln das Zusammenleben der Menschen. Manche Gesetze bestimmen alles das, was verboten ist und welche Strafen erteilt werden können, wenn jemand gegen diese Gesetze verstoßen hat. Es gibt aber auch Gesetze, die aussagen, welche Rechte jeder im Staat hat. So hat bei uns jeder das Recht, dort Wohnung und Arbeit zu suchen, wo es ihm gefällt.</German>
@@ -155,31 +136,82 @@
         <Grammer>wo는 관계부사로서, 앞문장 dort가 관계문자을 받고 있다.</Grammer>
 </Paragraph>
 
-
 <Paragraph No = '8'>
-        <German>Der Expressionismus war der letzte Versuch, den Menschen mit Mitteln der Kunst zu beeinflussen un zu verändern. In dieser Hinsicht folgte er der großen Idee der Klassik. Um so tiefer war die Enttäuschung, daß dies nicht möglich war. Der Expressionismus hat das geistige Leben in Deutschland zwischen 1920 und 1930 sehr beeinflußt.</German>
+        <German>Der Expressionismus war der letzte Versuch, den Menschen mit Mitteln der Kunst zu beeinflussen un zu verändern. In dieser Hinsicht folgte er der großen Idee der Klassik. Um so tiefer war die Enttäuschung, dass dies nicht möglich war. Der Expressionismus hat das geistige Leben in Deutschland zwischen 1920 und 1930 sehr beeinflußt.</German>
         <Korean>표현주의는 예술을 수단으로 하여 인간에게 영향을 주고 인간을 변화시키고자 하는 마지막 시도였다. 이러한 점에서 표현주의는 고전주의의 위대한 이념을 계승하였다. (그래서) 이것(=고전주의의 이념)이 가능하지 않다는 환멸감은 그만큼 더 깊었다. 표현주의는 1920년과 1930년 사이의 독일의 정신 생활에 거대한 영향을 미쳤다.</Korean>
         <Grammer>zu bedinflußen und zu verändern은 der letzte Versuch를 설명하는 Inf.</Grammer>
-        <Grammer>daß 문장은 die Enttäuschung을 설명하는 동격의 의미.</Grammer>
+        <Grammer>dass 문장은 die Enttäuschung을 설명하는 동격의 의미.</Grammer>
 </Paragraph>
-
 
 <Paragraph No = '9'>
         <German>Früher kamen Deutsche und Ausländer nach Bonn, um an der bekannten Universität zu studieren, um das Beethovenhaus zu besuchen, um sich die mittelalterlichen Kirchen und Bauten anzusehen und um die Schönheit der Rheinlandschaft zu genießen. Stutenten und Rheinromantiker kommen immer noch, aber jetzt sind über hundert diplomatische Missionen in Bonn. Im Jahr 1949 begann eine neue Epoche, als man für Bonn, und nicht für Frankfurt, stimmte; Bonn wurde eine Stadt der hohen Politik.</German>
         <Korean>예전에 독일인들과 외국인들이 Bonn에 온 목적은 유명한 대학교에서 공부하기 위해서였고, 베토벤 생가를 방문하기 위해서였고, 중시 시대의 교회와 건축물들을 구경하기 위해서였고, 그리고 라인강 풍경의 아름다움을 즐기기 위해서였다. 학생들과 Rhein찬미자들은 여전히 오고 있지만, 이제 Bonn에는 100개가 넘는 외교 사절단들이 있다. 1949년에 사람들이 프랑크푸르트가 아니라 Boo에 찬성투표를 하였을 때, 새로운 시대가 시작되었다. 즉, Bonn은 고도의 정치도시가 된 것이다.</Korean>
-        <Grammer>um ... zu부정사는 목적구문으로 4개가 접속사 und로 결합되어 있다.</Grammer>
+        <Grammer>um ... zu + inf.는 목적구문으로 4개가 접속사 und로 결합되어 있다.</Grammer>
         <Grammer>als는 때를 표시하는 종속접속사로 과거의 일회적인 사건을 표현할 때 쓰인다. 그 밖의 경우에는 wenn을 사용한다.</Grammer>
 </Paragraph>
-
 
 <Paragraph No = '10'>
         <German>Die Franösische Revolution und mehr noch die industrielle Revolution des 19. Jahrhunderts hatten die Massen geweckt. Die konservativen Kräfte waren entweder zu schwach oder zu reaktionär, zu unbeweglich, um sich gegen den Strom stellen zu können.</German>
         <Korean>19세기의 산업 혁명은 말할 것도 없고, 프랑스혁명은 대중들을 일깨웠다. 보수주의 세력은 (시대의) 흐름에 맞설 수 있기에는 너무 힘이 약했거나 아니면 너무 반동적, 혹은 너무 부동적이었다.</Korean>
         <Grammer>entweder A oder B는 A이거나 B이거나의 선택적 의미를 지닌다.</Grammer>
-        <Grammer>zu 형용사, um ... zu부정사는 너무 ~해서 ~할 수 없다의 구문으로 이것은 zu 형용사/부사, als daß 구문의 단축형이다.</Grammer>
+        <Grammer>zu 형용사, um ... zu + inf.는 너무 ~해서 ~할 수 없다의 구문으로 이것은 zu 형용사/부사, als dass 구문의 단축형이다.</Grammer>
         <Grammer>sich gegen den Strom stellen 흐름에 역행하다. sich gegen den Strom schwimmen 흐름에 거슬러 헤엄치다.</Grammer>
 </Paragraph>
 
+<Paragraph No = '11'>
+        <German>Es ist nicht auszuschließen, dass es unter Milliarden Gestirnen einige gibt, auf denen die Temperaturen und Lebensbedingungen ähnlich sind wie auf unserer Erde. Dort könnte es menschenähnliche Lebewesen geben. Aber die wären durch unvorstellbare Entfernungen von uns getrennt.</German>
+        <Korean>수십억개의 별들 가운데에 우리 지구에서와 온도 및 생활조건이 유사한 별들이 몇몇 존재할 것이라는 사실은 배제될 수가 없다. 그런 곳에서라면 인간과 유사한 생물체들이 존재할 수도 있을 것이다. 하지만 그렇다 하더라도 그들은 우리하고는 상상도 할 수 없는 엄청난 거리로 떨어져 있을 것이다.</Korean>
+        <Grammer>auszuschließen은 분리동사 ausschließen의 zu + inf.의 형태. sein 동사와 결합하여 ausgeschlossen werden können 배제될 수 없다의 의미임</Grammer>
+        <Grammer>dass~ 문장은 es~, dass~로 이어지는 진주어</Grammer>
+        <Grammer>denen은 관계대명사, 선행사는 einige인데 einige 다음에 Gestirne가 생략.</Grammer>
+        <Grammer>könnte는 können의 접속법 2식. 주관적인 표현으로 Es könnte auf anderen Gestirnen Lebewesen geben.은 Es ist nicht unmöglich, dass es auf anderen Gestirnen Lebewesen gibt.와 같은 가능성을 나타낸다.</Grammer>
+        <Grammer>die는 복수 1격의 지시대명사로 Lebewesen을 가리킨다.</Grammer>
+        <Grammer>wären은 sein 동사의 접속법 2식 가정법.</Grammer>
+</Paragraph>
+
+<Paragraph No = '12'>
+        <German>Die Menschen, die vor vielen tasend Jahren erstmals einen Fluß oder See überquerten, bewegten sich warscheinlich auf einem einfachen Baumstamm fort. Später banden sie mehrere Stämme zu einem Floß zusammen. Auf einem Floß konnte man Lasten befördern, aber es war schwer zu lenken. Die Menschen entdeckten schließlich, dass man einen Baumstamm aushöhlen und sich damit gut auf dem Wasser bewegen konnte.</German>
+        <Korean>수 천년전 처음으로 강이나 호수를 건넜던 사람들은 아마도 간단한 나무 줄기를 타고서 앞으로 움직여 나아갔을 것이다. 나중에 와서 그들은 몇몇 나무줄기들을 엮어서 뗏목을 만들었다. 그 뗏목 위에다 짐을 싣고 운반할 수도 있었는데, 방향을 조정하기가 어려웠다. 마침내 사람들은 나무줄기의 속을 파내고 그것을 가지고 물 위에서 훌륭히 움직일 수 있다는 것을 발견해 냈다.</Korean>
+        <Grammer>die는 복수 1격 관계대명사로, 선행사는 die Menschen.</Grammer>
+        <Grammer>zu lenken은 가주어 es에 대한 진주어이다. 본동사 이외에 dass문장의 다른 문장 구성성분이 없을 때에는 zu 앞의 콤마를 생략한다.</Grammer>
+        <Grammer>dass문장은 entdecken 동사의 목적절.</Grammer>
+        <Grammer>damit는 방법을 의미하는 전치사 mit가 앞문장을 목적어로서 취할 때 지시적 부사 da와 결합된 형태. 그럼으로써, 따라서</Grammer>
+</Paragraph>
+
+<Paragraph No = '13'>
+        <German>Heine war ein Meister der Satire. Da er gern über Menschen spottete, hatte er Millionen Bewunderer, aber wenige Freunde. Als sein Onkel, der ihm geholfen hatte, zum Beispiel schrieb: "Hätte der dumme Junge etwas gelernt, so brauchte er nicht Bücher zu schreiben", antwortete Heine: "Das Beste an ihm ist, dass er meinen Namen trägt". Als ein Kritiker meinte, dass Heine mal dies und mal das Gegenteil schrieb, sagte er: "Ich brauche nicht immer meiner eigenen Meinung zu seim."</German>
+        <Korean>Heine는 풍자의 대가였다. 그는 사람들을 즐겨 놀려댔기 때문에, 그를 감탄하는 사람들은 수 없이 많았지만, 친구들은 거의 없었다. 그에게 도움을 주었었던 그의 아저씨가 예컨대 이렇게 글을 썼을 때 - "그 어리석은 녀석이 무언가 좀 배웠었더라면, (지금 그렇게) 책을 쓸 필요가 없을 텐데.", Heine는 이렇게 응수했다 - "그에게 있어서 가장 뛰어나다고 할 수 있는 점은 그가 나와 같은 성을 가지고 있다는 것이다." 또 어떤 비평가가 Heine는 때로는 이렇게 썼다가 때로는 정반대의 것을 쓰기도 한다고 말했을 때, 그는 이렇게 말했다. "언제나 내가 나 자신의 의견만을 가질 필요는 업는거 아니냐."라고.</Korean>
+        <Grammer>da는 이유를 의미하는 종속접속사.</Grammer>
+        <Grammer>als는 과거의 일회적인 사건을 표현하는 종속접속사.</Grammer>
+        <Grammer>der는 남성 1격 관계대명사로, 선행사는 Onkel.</Grammer>
+        <Grammer>Hätte는 접속법 2식의 약속화법으로서, 종속접속사 wenn이 생략되면 후치되었던 동사가 그 자리를 메꾸어주고, 주문장의 앞에는 so, dann이란 부사를 첨가시킨다.</Grammer>
+        <Grammer>mal ... und mal은 때로는 ~하고, 때로는 ~한다의 뜻으로 blad ... bald와 같은  의미로 사용된다.</Grammer>
+        <Grammer>meiner eigenen Meinung은 술어적 2격이다. 이러한 술어적 2격은 사람의 기분, 감정, 의견이나 소유를 나타낼 때 많이 사용된다.</Grammer>
+</Paragraph>
+
+<Paragraph No = '14'>
+        <German>Der Stil ist die Art, wie man in einer bestimmten Epoche (d.h. Zeitabschnitt) zu malen, zu komponieren oder zu dichten pflegte. Eine besondere Rolle spielt der Begriff Still in der Architektur. Der Kunstkenner kann sofort feststellen, ob beispielsweise eine Kirche im Zeitalter der Romanik, der Gotik oder des Barock gebaut worden ist. Er erkennt es an der Anlage des Mauerwerks, an der Form der Türen und Fenster und anderen Dingen mehr.</German>
+        <Korean>양식(Stil)이라는 것은 어느 특정 시대에 사람들이 그림을 그리고, 작곡을 하고 혹은 글을 짓곤 하던 방식을 말한다. 건축술에 있어서 양식이라는 개념은 특별한 역할을 한다. 예술전문가는 예컨대 어떤 교회가 로마네스크 시대에 지어졌는가, 아니면 고딕 시대인가, 바로크 시대인가 하는 것을 즉시 판정할 수가 있다. 그는 담장구조물의 토대나 문과 창문, 그리고 그 밖의 것들의 형태를 보고서 그 사실을 알아 낸다.</Korean>
+        <Grammer>wie는 방법을 의미하는 관계부사로 사용되고 있다. in der로 치환 가능.</Grammer>
+        <Grammer>pflegen zu + inf. ~하는 버릇이 있다.</Grammer>
+        <Grammer>ob은 일반적으로 의문사 없는 의문문을 간접의문문으로 만들때 등장하는 접속사로, 주문장의 내용은 미정, 불확실, 물음 등의 의미를 표현하고 있다. ob문장의 끝에 oder nicht를 첨가하면 그 의미가 보다 명확해진다.</Grammer>
+        <Grammer>gebaut worden ist는 수동태의 현재완료 형태이다.</Grammer>
+</Paragraph>
+
+<Paragraph No = '15'>
+        <German>Es war klargeworden, dass das Bürgertum politisch noch zu schwach war, um sich gegen die Fürsten durchzusetzen. Doch von jetzt ab mußten die Fürsten mit dem Geist des ersten Frankfurter Parlaments rechnen. Hier hatten zum erstenmal Gelehrte und politisch wache Bürger ein Programm aufgestellt, das mit seinen Forderungen in die Zukunft wies.</German>
+        <Korean>시민계급이 영주들에 대항하여 자신의 뜻을 관철시키기에는 아직 정치적으로 힘이 너무 약했다는 사실은 명백했다. 하지만 이제부터 영주들을 제1차 프랑크푸르트 의회의 정신을 고려하지 않으면 안되었다. 이 의회에서 처음으로 지식인 계층과 정치적으로 눈을 뜬 시민계층은 요구사항들로서 미래를 제시하는 정치 강령을 내놓았던 것이다.</Korean>
+        <Grammer>es는 가주어이고 dass문장이 진주어이다.</Grammer>
+        <Grammer>das는 중성 1격 관계대명사로, 선행사는 Programm.</Grammer>
+</Paragraph>
+
+<Paragraph No = '16'>
+        <German>Die Sprache der frühen Stücke Bertolt Brechts war noch expressionistisch, aber schon "Die Dreigroschenoper" ging über den Expressionismus hinaus. Überhaupt ist der Stil Brechts einfacher und realistischer als der Stil der meisten Expressionisten. Durch sein "episches Theater", bei dem das Publikum nicht mit-leiden, sondern mit-denken soll, wurde er international berühmt. Für Brecht war die Funktion der Literatur vor allem, die Welt zu verändern.</German>
+        <Korean></Korean>
+        <Grammer>als는 동등하지 못한 비교를 표현하는 접속사로서, 앞에 형용사의 비교급을 취하고 있다.</Grammer>
+        <Grammer>dem은 전치사 bei와 결합되어 있는 중성 3격 관계대명사로, 선행사는 Theater이다.</Grammer>
+        <Grammer>die Welt zu verändern은 sein의 주격보어이다.</Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -187,6 +219,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -194,6 +231,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -201,6 +243,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -208,6 +255,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -215,6 +267,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -222,6 +279,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -229,6 +291,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -236,6 +303,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -243,6 +315,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -250,6 +327,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -257,6 +339,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -264,6 +351,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -271,6 +363,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -278,6 +375,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -285,6 +387,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -292,6 +399,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -299,6 +411,11 @@
         <Grammer></Grammer>
 </Paragraph>
 
+<Paragraph>
+        <German></German>
+        <Korean></Korean>
+        <Grammer></Grammer>
+</Paragraph>
 
 <Paragraph>
         <German></German>
@@ -306,181 +423,17 @@
         <Grammer></Grammer>
 </Paragraph>
 
-
 <Paragraph>
         <German></German>
         <Korean></Korean>
         <Grammer></Grammer>
 </Paragraph>
 
-
 <Paragraph>
         <German></German>
         <Korean></Korean>
         <Grammer></Grammer>
 </Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
-
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
-</Paragraph>
-
 
 <Paragraph>
         <German></German>
