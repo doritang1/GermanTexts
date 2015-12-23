@@ -299,10 +299,11 @@
         <Grammer>was는 앞문장 전체를 받는 관계대명사이다.</Grammer>
 </Paragraph>
 
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
+<Paragraph No = '19'>
+        <German>Diese vier verschiedenen Namen charakterisieren die geistige Hauptströmung dieser Jahre. Die Naturwissenschaften, Chemie, Physik und Biologie, traten immer mehr als geistig bestimmende Faktoren an Stelle von Philosophie und Dichtung. Auguste Comte wollte die Methoden der Naturwissenschaften auf die Geisteswissenschaften übertragen. Hegel hatte noch ein gewaltiges philosophisches System entworfen. Schopenhauer hatte aus pessimistischer Sicht zwischen 1815 und 1848 seine voluntaristische Lehre eintwickelt.</German>
+        <Korean>이 네가지의 서로 다른 이름들은 이 시기의 정신적 주류를 특징지우고 있다. 화학, 물리학 그리고 생물학 등 자연과학은 정신계의 결정적 요인들로서 점점 철학과 문학의 자리를 대신하게 되었다. Auguste Comte (오귀스트 꽁뜨)는 자연과학의 방법들을 정신과학에 적용시키고자 하였다. Hegel은 또 강력한 철학 체계를 구성했었다. Schopenhauer는 1815년에서 1845년 사이의 시기에 염세주의적 시각에서 자신의 주의주의적 이론을 전개했었다.</Korean>
+        <Grammer>als는 자격을 의미하는 접속사. ...으로서</Grammer>
+        <Grammer>an Stelle von etw(3) treten ...을 대신하다. ...을 대치하다.</Grammer>
 </Paragraph>
 
 <Paragraph>

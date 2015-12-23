@@ -1,0 +1,128 @@
+<BOOK Name = "초급독문해석">
+<CategoryPri Name = "사람을 만났을 때의 표현">
+  <CategorySec Name = "일상적 인사">
+    <CategoryThr Name = "아침, 낮, 저녁에 인사하기"
+      <German>Hallo!</German>
+      <Korean>안녕</Korean>
+      <Etc></Etc>
+
+      <German>Guten Morgen!</German>
+      <Korean>안녕하세요.(아침인사)</Korean>
+      <Etc></Etc>
+
+      <German>Guten Tag!</German>
+      <Korean>안녕하세요.(낮인사)</Korean>
+      <Etc></Etc>
+
+      <German>Guten Abend!</German>
+      <Korean>안녕하세요.(저녁인사)</Korean>
+      <Etc></Etc>
+
+      <German>Gute Nacht!</German>
+      <Korean>안녕히 주무세요.(밤인사)</Korean>
+      <Etc></Etc>
+    </CategoryThr>
+
+    <CategoryThr Name = "근황을 물을 때">
+      <German>Hallo!</German>
+      <Korean>안녕?</Korean>
+      <Etc></Etc>
+
+      <German>Wie geht es dir?</German>
+      <German>Wie geht's?</German>
+      <Korean>잘 지내니?</Korean>
+      <Etc></Etc>
+
+      <German>Wie geht es Ihnen?</German>
+      <Korean>어떻게 지내십니까?</Korean>
+      <Etc></Etc>
+
+      <German>Es geht mir sehr gut.</German>
+      <Korean>아주 잘 지냅니다.</Korean>
+      <Etc></Etc>
+
+      <German>Danke, mir geht es gut.</German>
+      <Korean>덕분에 잘 지냅니다.</Korean>
+      <Etc></Etc>
+
+      <German>Danke, mir geht es gut. Und Ihnen?</German>
+      <Korean>덕분에 잘 지냅니다. 당신은 어떠세요?</Korean>
+      <Etc></Etc>
+
+      <German>Danke schön, mir geht es auch gut.</German>
+      <German>Danke, auch gut.</German>
+      <German>Danke, mir auch.</German>
+      <Korean>덕분에 저도 잘 지내요.</Korean>
+      <Etc></Etc>
+
+      <German>Es geht.</German>
+      <Korean>그럭저럭 지내요.</Korean>
+      <Etc></Etc>
+
+      <German>Mir geht es nicht so gut.</German>
+      <Korean>별로 안좋아요.</Korean>
+      <Etc></Etc>
+
+      <German>Ich fühle mich sehr gut.</German>
+      <Korean>기분이 아주 좋습니다.</Korean>
+      <Etc></Etc>
+    </CategoryThr>
+
+    <CategoryThr Name = "바쁘냐고 물을 때">
+      <German>Haben Sie viel Arbeit zurzeit?</German>
+      <Korean>요즘 일이 많으세요?</Korean>
+      <Etc></Etc>
+
+      <German>Sind Sie zurzeit sehr beschäftigt?</German>
+      <Korean>요즘 바쁘십니까?</Korean>
+      <Etc></Etc>
+
+      <German>Bist du zurzeit sehr beschäftigt?</German>
+      <Korean>요즘 바쁘니?</Korean>
+      <Etc></Etc>
+
+      <German>Hast du zurzeit viel zu tun?</German>
+      <Korean>요즘 일이 많니?</Korean>
+      <Etc></Etc>
+
+      <German>Haben Sie heute viel zu tun?</German>
+      <Korean>오늘 하실 일이 많으신가요?</Korean>
+      <Etc></Etc>
+    </CategoryThr>
+
+    <CategoryThr Name = "기분, 안색을 나타낼 때">
+      <German>Ich bin schlechter Laune.</German>
+      <Korean>기분이 별로 안좋습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Ich fühle mich nicht wohl.</German>
+      <Korean>컨디션이 좀 안좋습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Sie sehen bedrückt aus.</German>
+      <Korean>기운이 없어 보이네요.</Korean>
+      <Etc></Etc>
+
+      <German>Warum bist du so deprimiert?</German>
+      <Korean>왜 그렇게 시무룩하니?</Korean>
+      <Etc></Etc>
+
+      <German>Du siehst gut aus.</German>
+      <Korean>얼굴이 좋아 보인다.</Korean>
+      <Etc></Etc>
+
+      <German>Wo tut es Ihnen weh?</German>
+      <Korean>어디 아프십니까?</Korean>
+      <Etc></Etc>
+
+      <German>Was ist los?</German>
+      <German>Was ist los mit dir?</German>
+      <Korean>무슨 일이 생겼니?</Korean>
+      <Etc></Etc>
+
+    </CategoryThr>
+
+
+  </CategorySec>
+</CategoryPri>
+</BOOK>
