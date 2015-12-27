@@ -120,9 +120,26 @@
       <Korean>무슨 일이 생겼니?</Korean>
       <Etc></Etc>
 
+    </CategoryThr>  
+
+  </CategorySec>
+
+  <CategorySec Name = "소개">
+    <CategoryThr Name = "처음 만났을 때">
+      <German>Ich freue mich, Sie zu treffen.</German>
+      <German>Wie schön, Sie zu treffen.</German>
+      <German>Nett, Sie kennen zu lernen.</German>
+      <German>Ich freue mich, Sie getroffen zu haben.</German>
+      <German>Freut mich, Sie zu sehen.</German>
+      <German>Ein Vergnügen.</German>
+      <German>Sehr erfreut, Sie kennen zu lernen.</German>
+      <Korean>만나서 반갑습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Gern geschehen!</German>
+      <Korean>제가 오히려 반갑습니다.</Korean>
+      <Etc>만나서 반갑습니다의 답례, 대답</Etc>
     </CategoryThr>
-
-
   </CategorySec>
 </CategoryPri>
 </BOOK>
