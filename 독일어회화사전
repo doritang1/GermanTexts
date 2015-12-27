@@ -118,9 +118,9 @@
       <German>Was ist los?</German>
       <German>Was ist los mit dir?</German>
       <Korean>무슨 일이 생겼니?</Korean>
-      <Etc></Etc>
+      <Etc></Etc>Copyright (c) 2015 Copyright Holder All Rights Reserved.
 
-    </CategoryThr>  
+    </CategoryThr>
 
   </CategorySec>
 
@@ -139,6 +139,136 @@
       <German>Gern geschehen!</German>
       <Korean>제가 오히려 반갑습니다.</Korean>
       <Etc>만나서 반갑습니다의 답례, 대답</Etc>
+    </CategoryThr>
+
+    <CategoryThr Name = "서로 이름을 밝힐 때">
+      <German>Wie heißen Sie, bitte?</German>
+      <German>Wie ist Ihr Name?</German>
+      <Korean>성함이 어떻게 됩니까?</Korean>
+      <Etc></Etc>
+
+      <German>Ihr Name, bitte!</German>
+      <Korean>성함을 말해 주십시오</Korean>
+      <Etc></Etc>
+
+      <German>Wie heißen Sie mit Familiennamen?</German>
+      <Korean>성이 어떻게 됩니까?</Korean>
+      <Etc></Etc>
+
+      <German>Wie ist Ihr Vorname?</German>
+      <Korean>이름이 어떻게 됩니까?</Korean>
+      <Etc></Etc>
+
+      <German>Ihr Vorname, bitte!</German>
+      <Korean>이름을 말씀해 주십시오.</Korean>
+      <Etc></Etc>
+
+      <German>Ist Kim Ihr Vorname?</German>
+      <Korean>김이 당신의 이름입니까?</Korean>
+      <Etc></Etc>
+
+      <German>Nein, es ist mein Nachname.</German>
+      <Korean>아니오, 저의 성입니다.</Korean>
+      <Etc></Etc>
+
+      <German>Sind Sie Herr Weihgold?</German>
+      <Korean>당신이 바이골트씨입니까?</Korean>
+      <Etc></Etc>
+
+      <German>Ja, das bin ich.</German>
+      <Korean>예, 그렇습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Mein Nachname ist Park./German>
+      <Korean>저의 성은 박입니다.</Korean>
+      <Etc></Etc>
+
+      <German>Nennen Sie mich Nina!</German>
+      <Korean>니나라고 불러주십시오.</Korean>
+      <Etc></Etc>
+
+      <German>Bitte wiederholen Sie das, langsam!</German>
+      <Korean>천천히 다시 말씀해 주십시오.</Korean>
+      <Etc></Etc>
+
+      <German>Entschuldigung, wie war Ihr Name noch einmal?</German>
+      <Korean>실례합니다. 성함이 뭐라고 하셨지요?</Korean>
+      <Etc></Etc>
+
+      <German>Wie buchstabiert man das?</German>
+      <Korean>철자를 어떻게 쓰지요?</Korean>
+      <Etc></Etc>
+
+      <German>Das buchstabiert man: großes s, t, r, a, u, scharfes s.</German>
+      <Korean>철자는 이렇게 됩니다: S, t, r, a, u, ß</Korean>
+      <Etc></Etc>
+
+      <German>Bitte buchstabieren Sie Ihren Nachnamen!</German>
+      <Korean>당신 성의 철자를 불러주십시오.</Korean>
+      <Etc></Etc>
+
+    </CategoryThr>
+
+    <CategoryThr Name = "말씀 많이 들었다고 할 때">
+      <German>Ich habe viel von Ihnen gehört.</German>
+      <Korean>당신에 관한 말씀 많이 들었습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Ich habe von Ihnen gehört.</German>
+      <Korean>선생님에 대해서 말씀을 들었습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Viel von Ihnen gehört.</German>
+      <Korean>말씀 많이 들었습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Ich kenne Sie vom Hörensagen.</German>
+      <Korean>말씀은 많이 들었습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Herr Schneider hat mir oft von Ihnen erzählt.</German>
+      <Korean>슈나이더 씨가 당신 이야기를 자주 했습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Herr Köhnen hat oft von Ihnen erzählt.</German>
+      <Korean>쾨넨 씨가 선생님에 대해 자주 얘기했습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Ich habe mir gewünscht, Sie zu treffen.</German>
+      <Korean>만나 뵙고 싶었습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Schon seit langem habe ich gewünscht, Sie zu treffen.</German>
+      <Korean>오래 전부터 당신을 만나 뵙고 싶었습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Ich hoffe nichts Schlechtes.</German>
+      <Korean>나쁜 말이 아니길 바랍니다.</Korean>
+      <Etc></Etc>
+
+    </CategoryThr>
+
+    <CategoryThr Name = "자기 소개하기">
+      <German>Darf ich mich vorstellen?</German>
+      <Korean>제 소개를 할까요?</Korean>
+      <Etc></Etc>
+
+      <German>Darf ich mich Ihnen vorstellen?</German>
+      <Korean>제 소개를 하겠습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Ich möchte mich Ihnen vorstellen.</German>
+      <Korean>저를 소개하고 싶습니다.</Korean>
+      <Etc></Etc>
+
+      <German>Gestatten Sie, dass ich mich vorstelle?</German>
+      <Korean>저를 소개해도 될까요?</Korean>
+      <Etc></Etc>
+
+      <German>Ich heiße Park, so wie in meiner Vorstellung bereits erwähnt.</German>
+      <Korean>방금 소개받은 박입니다.</Korean>
+      <Etc></Etc>
+
     </CategoryThr>
   </CategorySec>
 </CategoryPri>
