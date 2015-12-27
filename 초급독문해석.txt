@@ -306,28 +306,33 @@
         <Grammer>an Stelle von etw(3) treten ...을 대신하다. ...을 대치하다.</Grammer>
 </Paragraph>
 
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
+<Paragraph No = '20'>
+        <German>Daher ist die Berlinfrage der Prüfstein für eine Politik des Friedens und eine friedliche Regelung dieser für eine wirkliche Koexistenz entscheidenden Frage vielleicht der Grundstein für ein friedliches Europa, das seine Grenzen nicht in der Mitte von Deutschland zwischen der Bundesrepublik und der Deutschen Demokratischen Republik und an der Mauer des geteilten Berlin hat.</German>
+        <Korean>따라서 베를린 문제는 평화 정책을 판가름하는 시금석이며, 현실적 (평화)공존을 결정짓는 이 문제의 평화로운 조정은 아마도 평화로운 유럽, 즉 연방공화국과 독일 인민공화국 사이의 독일 한 가운데에서 그리고 분단된 베를린의 장벽에서 자신의 경계선을 갖지 않는 그러한 유럽의 (건설을 위한) 초석이 될 것이다.</Korean>
+        <Grammer>für eine ... entscheidend는 관식구로서, dieser Frage에 첨부된 것임</Grammer>
+        <Grammer>das는 중성 1격 관계대명사로, 선행사는 Europa이다.</Grammer>
 </Paragraph>
 
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
+<Paragraph No = '21'>
+        <German>Die Aufklärung war nicht das philosophische System eines einzelnen Denkers, sondern eine alle Gebiete des Wissens umfassende Wandlung des Dekkens. Man bekämpfte die Metaphysik und den Irrationalismus und versuchte, alles aus der Vernunft zu erklären.</German>
+        <Korean>계몽주의는 어떤 개별 사상가의 철학 체계가 아니라, 지식의 전영역을 포괄하는 사상의 변화였다. 사람들은 형이상학과 비합리주의를 상대로 싸웠으며 모든 것을 이성에서부터 설명하고자 시도하였다.</Korean>
+        <Grammer>nicht A, sondern B: A가 아니고 B이다.</Grammer>
+        <Grammer>alle ... umfassend는 관식구로서 eine Wandlung에 첨부된 것임</Grammer>
 </Paragraph>
 
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
+<Paragraph No = '22'>
+        <German>Drei Jahre später schrieb der 21 jährige Georg Büchner, während er als Revolutionär von der Polizei verfolgt wurde, in wenigen Wochen sein Drama "Dantons Tod". In diesem Drama ist Gott schon tot, und "das Nichts ist der zu gebärend Weltgott".</German>
+        <Korean>21살의 Georg Büchner는 3년 후에 혁명가로서 경찰의 추적을 받으면서 불과 몇 주만에 "당통의 죽음"이라는 희곡 작품을 썼다. 이 작품에서 이미 신은 죽었고, "허무"가 바로 (앞으로) 태어날 세상신이다.</Korean>
+        <Grammer>zu gebärend는 미래분사로서 미래수동의 의미를 지닌다.</Grammer>
 </Paragraph>
 
-<Paragraph>
-        <German></German>
-        <Korean></Korean>
-        <Grammer></Grammer>
+<Paragraph No = '23'>
+        <German>Der Mond heißt Erdtrabant, weil er um die Erde kreist. Gemessen an der Entfernung zu anderen Gestirnen ist der Mond der Erde sehr nah. Wir können den Mond sehen, weil das Sonnenlicht auf ihn fällt. Wenn der Mond auf seiner Bahn in einem bestimmten Winkel zur Sonne steht, sehen wir ihn als Ganzes. Wenn der Winkel zwischen Sonne und Mond sich ändert, können wir den Mond gar nicht sehen oder nur den Teil, auf den das Sonnenlicht fällt.</German>
+        <Korean>달은 지구의 주위를 선회하고 있기 때문에 지구의 위성이라 불리운다. 다른 천체들과의 거리에 비해 달은 지구에 매우 가깝다. 우리는 태양광선이 달 위를 비추기 때문에 달을 볼 수가 있다. 달이 궤도상에서 태양과 일정한 각도로 서게 되면, 우리는 달을 전체의 모습으로 보게 된다. 태양과 달 사이의 각도가 변하게 되면 우리는 달을 전혀 볼 수 없거나 태양광선이 그 위를 비추는 부분만을 볼 수 있다.</Korean>
+        <Grammer>weil은 원인을 의미하는 종속접속사</Grammer>
+        <Grammer>gemessen an et(3)은 조건을 의미하는 분사구문.</Grammer>
+        <Grammer>wenn은 시간을 표현하는 종속접속사</Grammer>
+        <Grammer>den은 전치사 auf와 결합하고 있는 남성 4격의 관계대명사로, 선행사는 Teil.</Grammer>
 </Paragraph>
 
 <Paragraph>
